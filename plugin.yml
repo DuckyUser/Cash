@@ -1,0 +1,7 @@
+name: Cash
+version: 1.0
+main: ml.lbplugins.cash.Main
+softdepend: [PlaceHolderAPI, MVdWPlaceholderAPI]
+commands:
+  cash:
+  shop:

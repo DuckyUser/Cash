@@ -1,0 +1,51 @@
+MySQL:
+  Host: ""
+  Porta: 3306
+  Usuario: ""
+  Senha: ""
+  Database: ""
+  
+  
+#VENDA DE COINS
+Perm:
+  B:
+    Nome: "Fly"
+    Slot: 25
+    ID: 2
+    Lore:
+    - ""
+    - "&cCompre esse item!"
+    - ""
+    Valor: 101
+    Comandos:
+    - "say @jogador oi" 
+ 
+#VENDA DE COINS
+Coins:
+  A:
+    Nome: "Coins 100k"
+    Slot: 1
+    ID: 1
+    Lore:
+    - ""
+    - "&cCompre esse item!"
+    - ""
+    Valor: 101
+    Comandos:
+    - "say @jogador oi"
+    
+    
+     
+#VENDA DE VIP
+Itens:
+  Item_1:
+    Nome: "VIP"
+    Slot: 1
+    ID: 264
+    Lore:
+    - ""
+    - "&cCompre esse item!"
+    - ""
+    Valor: 10
+    Comandos:
+    - "say @jogador oi"
